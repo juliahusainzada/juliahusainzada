@@ -1,7 +1,7 @@
 # Hi, I'm Julia! 👋
 <img src="photo1.jpg" alt="Julia Husainzada" width="200" align="left" style="margin-right: 20px;">
 
-Welcome to my GitHub profile! I’m passionate about **data science**, **AI/ML**, and **responsible computing**. From building machine learning pipelines to leading teams, I aim to make an impact through innovative, data-driven solutions. Feel free to explore my repositories and connect with me!
+Welcome to my GitHub profile! I’m passionate about **data science**, **AI/ML**, and **responsible computing**. From building machine learning pipelines to leading teams, I aim to make an impact through innovative, data-driven solutions. Feel free to explore my repositories and connect with me! 💼 [LinkedIn](https://www.linkedin.com/in/julia-husainzada/) ✉️ [Email](mailto:juliahusainzada@gmail.com)
 
 ---
 
@@ -10,10 +10,6 @@ Welcome to my GitHub profile! I’m passionate about **data science**, **AI/ML**
 - 🎓 Sophomore **Data Science Student** at **SJSU**
 - 💡 Passionate about solving complex problems with **AI/ML**, **data science**, and **responsible tech practices**
 - 🤝 Dedicated to leading **diverse teams** and achieving impactful goals effectively
-
-📍 **Where You’ll Find Me**:
-- 💼 [LinkedIn](https://www.linkedin.com/in/julia-husainzada/)
-- ✉️ [Email](mailto:juliahusainzada@gmail.com)
 
 ---
 
