@@ -1,7 +1,8 @@
-## Hi there 👋
+## Hi, I'm Julia! 👋
 
 <!--
-**juliahusainzada/juliahusainzada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**juliahusainzada/juliahusainzada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.![DSCF8748](https://github.com/user-attachments/assets/bb5bd600-19fc-4816-9aa7-47d4bc34677e)
+
 
 Here are some ideas to get you started:
 
