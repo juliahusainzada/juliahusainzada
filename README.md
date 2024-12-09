@@ -1,5 +1,5 @@
 # Hi, I'm Julia! 👋
-<img src="photo1.jpg" alt="Julia Husainzada" width="200" align="left" style="margin-right: 20px;">
+<img src="photo1.jpg" alt="Julia Husainzada" width="200" align="left" style="margin-right: 200px;">
 
 Welcome to my GitHub profile! I’m passionate about **data science**, **AI/ML**, and **responsible computing**. From building machine learning pipelines to leading teams, I aim to make an impact through innovative, data-driven solutions. Feel free to explore my repositories and connect with me! 💼 [LinkedIn](https://www.linkedin.com/in/julia-husainzada/) ✉️ [Email](mailto:juliahusainzada@gmail.com)
 
