@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I’m passionate about **data science**, **AI/ML**
 
 - 🎓 Sophomore **Data Science Student** at **SJSU**
 - 💡 Passionate about solving complex problems with **AI/ML**, **data science**, and **responsible tech practices**
-- 🤝 Dedicated to leading **diverse teams** and achieving impactful goals effectively
+- 🤝 Dedicated to leading teams to achieving impactful goals
 
 ---
 
