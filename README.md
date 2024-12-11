@@ -31,25 +31,25 @@ Welcome to my GitHub profile! I’m passionate about **data science**, **AI/ML**
 ---
 
 ## 💻 Featured Repositories
-### [KPMG Machine Learning Challenge Project (Break Through Tech AI Program)](https://github.com/KPMG1A/AI-Studio-Project) 
+### 1. [KPMG Machine Learning Challenge Project (Break Through Tech AI Program)](https://github.com/KPMG1A/AI-Studio-Project) 
 Check out my team's project repository for the real-world ML project we worked on for KPMG for over 3 months, as part of the Break Through Tech AI Program's Fall 2024 AI Studio!
 - Analyzed 40,000+ zip codes and 3,000+ donations for C5LA using CRISP-DM framework and Agile methodology
 - Achieved 88% accuracy with Random Forest model, selected features with RFE, optimized parameters with RandomizedSearchCV , applied preprocessing and trend analysis using Pandas, NumPy, Scikit-learn
 - Presented findings and actionable recommendations to KPMG staff and C5LA to improve donor retention
 
-### 1. [Exploring Principal Component Analysis (PCA)](https://github.com/juliahusainzada/PCALinearAlgebra)
+### 2. [Exploring Principal Component Analysis (PCA)](https://github.com/juliahusainzada/PCALinearAlgebra)
 A **linear algebra-based project** focused on dimensionality reduction using PCA:
 - Applied PCA to reduce dataset dimensions while preserving variance
 - Visualized key patterns and feature contributions with intuitive plots
 - Demonstrated practical applications using real-world datasets like the Iris dataset
 
-### 2. [NYC Airbnb Price Prediction](https://github.com/juliahusainzada/Airbnb-Pricing-Analysis)
+### 3. [NYC Airbnb Price Prediction](https://github.com/juliahusainzada/Airbnb-Pricing-Analysis)
 A **machine learning project** predicting Airbnb prices using:
 - **Scikit-learn pipelines** for feature engineering
 - **Natural Language Processing (NLP)** on amenities data
 - Robust performance evaluation metrics
 
-### 3. [SVM Sentiment Analysis of Customer Feedback](https://github.com/juliahusainzada/Neural-Network-Sentiment-Analysis)
+### 4. [SVM Sentiment Analysis of Customer Feedback](https://github.com/juliahusainzada/Neural-Network-Sentiment-Analysis)
 A **Support Vector Machine (SVM)-based project** for:
 - Analyzing customer feedback sentiment
 - Data preprocessing with **TF-IDF vectorization**
