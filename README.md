@@ -49,8 +49,7 @@ A **machine learning project** predicting Airbnb prices using:
 - **Natural Language Processing (NLP)** on amenities data
 - Robust performance evaluation metrics
 
-### 4. [SVM Sentiment Analysis of Customer Feedback](https://github.com/juliahusainzada/Neural-Network-Sentiment-Analysis)
-A **Support Vector Machine (SVM)-based project** for:
-- Analyzing customer feedback sentiment
+### 4. [Sentiment Analysis of Customer Feedback](https://github.com/juliahusainzada/Neural-Network-Sentiment-Analysis)
+- Analyzed customer feedback sentiment
 - Data preprocessing with **TF-IDF vectorization**
 - Visualizing sentiment trends
