@@ -37,19 +37,24 @@ Check out my team's project repository for the real-world ML project we worked o
 - Achieved 88% accuracy with Random Forest model, selected features with RFE, optimized parameters with RandomizedSearchCV , applied preprocessing and trend analysis using Pandas, NumPy, Scikit-learn
 - Presented findings and actionable recommendations to KPMG staff and C5LA to improve donor retention
 
-### 2. [Exploring Principal Component Analysis (PCA)](https://github.com/juliahusainzada/PCALinearAlgebra)
+### 2. [Equitable AI for Dermatology (Break Through Tech AI Program – Spring 2025)](https://github.com/juliahusainzada/equitable-ai-dermatology)
+- Led all exploratory data analysis (EDA) for a Kaggle competition focused on building a fair computer vision model to classify skin conditions across diverse skin tones.
+- Conducted fairness-driven analysis using the Fitzpatrick skin tone scale and visualized class imbalances across 21 medical skin conditions.
+- Insights from my EDA guided fairness-aware model development to address bias and healthcare disparities in dermatological AI.
+
+### 3. [Exploring Principal Component Analysis (PCA)](https://github.com/juliahusainzada/PCALinearAlgebra)
 A **linear algebra-based project** focused on dimensionality reduction using PCA:
 - Applied PCA to reduce dataset dimensions while preserving variance
 - Visualized key patterns and feature contributions with intuitive plots
 - Demonstrated practical applications using real-world datasets like the Iris dataset
 
-### 3. [NYC Airbnb Price Prediction](https://github.com/juliahusainzada/Airbnb-Pricing-Analysis)
+### 4. [NYC Airbnb Price Prediction](https://github.com/juliahusainzada/Airbnb-Pricing-Analysis)
 A **machine learning project** predicting Airbnb prices using:
 - **Scikit-learn pipelines** for feature engineering
 - **Natural Language Processing (NLP)** on amenities data
 - Robust performance evaluation metrics
 
-### 4. [Sentiment Analysis of Customer Feedback](https://github.com/juliahusainzada/Neural-Network-Sentiment-Analysis)
+### 5. [Sentiment Analysis of Customer Feedback](https://github.com/juliahusainzada/Neural-Network-Sentiment-Analysis)
 - Analyzed customer feedback sentiment
 - Data preprocessing with **TF-IDF vectorization**
 - Visualizing sentiment trends
