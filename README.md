@@ -3,7 +3,7 @@
 <img src="photo1.jpg" alt="Julia Husainzada" width="240" align="left" style="margin-right: 20px;">
 Welcome to my GitHub profile! I build <b>AI agents</b>, <b>backend systems</b>, and <b>data pipelines</b> that hold up in production, and I care deeply about <b>responsible AI</b>. I've shipped software at Workday, NASA Ames, and AWS, and I love turning complex, real-world challenges into reliable tools people can reliably use.
 
-💼 <a href="https://www.linkedin.com/in/julia-husainzada/">LinkedIn</a> ✉️ <a href="mailto:juliahusainzada@gmail.com">Email</a>
+💼 <a href="https://www.linkedin.com/in/julia-husainzada/">LinkedIn</a> ✉️ <a href="mailto:juliahusainzada@gmail.com">Email</a> 🌐 <a href="https://juliahusainzada.github.io//">Website</a>
  
 ### 🌱 About Me
  
