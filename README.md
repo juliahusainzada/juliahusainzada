@@ -1,17 +1,19 @@
 # Hi, I'm Julia! 👋
  
-<img src="photo1.jpg" alt="Julia Husainzada" width="200" align="left" style="margin-right: 20px;">
+<img src="photo1.jpg" alt="Julia Husainzada" width="240" align="left" style="margin-right: 20px;">
 Welcome to my GitHub profile! I build <b>AI agents</b>, <b>backend systems</b>, and <b>data pipelines</b> that hold up in production, and I care deeply about <b>responsible AI</b>. I've shipped software at Workday, NASA Ames, and AWS, and I love turning complex, real-world challenges into reliable tools people can reliably use.
 
 💼 <a href="https://www.linkedin.com/in/julia-husainzada/">LinkedIn</a> ✉️ <a href="mailto:juliahusainzada@gmail.com">Email</a>
  
-### <b>🌱 About Me</b><br>
-✩ Senior <b>Data Science</b> student (Minor in Business) at <b>SJSU</b>, graduating May 2027<br>
+### 🌱 About Me
+ 
+✩ <b>Data Science</b> student (Minor in Business) at <b>SJSU</b>, graduating May 2027<br>
 ✩ Former intern at <b>Workday</b>, <b>NASA Ames</b>, <b>AWS</b>, and <b>KPMG</b><br>
 ✩ Best Overall Project, <b>SpartHill Hacks IBM AI Challenge</b> Agentic Governance Platform<br>
 ✩ Founder & President of SJSU's <b>Responsible Computing Club</b> · 300+ Members
  
 <br clear="left"/>
+
  
 ## 💻 Featured Repositories
 ### 1. [ClearStand: Agentic AI Governance Platform (🏆 Best Overall Project, SpartHill Hacks IBM AI Challenge)](https://github.com/PA1393/IBM-Hackathon-Project)
